@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T17:00:36.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="lvkqtaDOHuukHhCKppIi" type="github"><diagram id="B8FLS0wwErdgaYFL3E5s">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-12T17:05:49.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="tTTQft7Md6kkuG-rl6cn" type="github">
+  <diagram id="TPnVA2JraiAsj2s0yNs6" name="Page-1">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K0yt6GwU2kgWWmq-HfIX-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="130" width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="K0yt6GwU2kgWWmq-HfIX-2" value="Air Ticket Booking System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0yt6GwU2kgWWmq-HfIX-1">
+          <mxGeometry x="67.5" y="10" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K0yt6GwU2kgWWmq-HfIX-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="K0yt6GwU2kgWWmq-HfIX-1">
+          <mxGeometry x="80" y="60" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0yt6GwU2kgWWmq-HfIX-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="K0yt6GwU2kgWWmq-HfIX-1">
+          <mxGeometry x="80" y="170" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0yt6GwU2kgWWmq-HfIX-10" value="Buy ticket online" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0yt6GwU2kgWWmq-HfIX-1">
+          <mxGeometry x="115" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K0yt6GwU2kgWWmq-HfIX-11" value="Redeem Business Miles" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0yt6GwU2kgWWmq-HfIX-1">
+          <mxGeometry x="97.5" y="182.5" width="95" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="K0yt6GwU2kgWWmq-HfIX-3" value="Passenger" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K0yt6GwU2kgWWmq-HfIX-5" value="Tourist" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K0yt6GwU2kgWWmq-HfIX-7" value="Business Traveller" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K0yt6GwU2kgWWmq-HfIX-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="K0yt6GwU2kgWWmq-HfIX-8" target="K0yt6GwU2kgWWmq-HfIX-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="230" as="sourcePoint" />
+            <mxPoint x="430" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0yt6GwU2kgWWmq-HfIX-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="K0yt6GwU2kgWWmq-HfIX-9" target="K0yt6GwU2kgWWmq-HfIX-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="340" as="sourcePoint" />
+            <mxPoint x="160" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0yt6GwU2kgWWmq-HfIX-14" value="" style="endArrow=block;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;endFill=0;endSize=20;exitPerimeter=0;" edge="1" parent="1" source="K0yt6GwU2kgWWmq-HfIX-7" target="K0yt6GwU2kgWWmq-HfIX-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="346.02" as="sourcePoint" />
+            <mxPoint x="216.3499999999999" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0yt6GwU2kgWWmq-HfIX-15" value="" style="endArrow=block;html=1;rounded=0;entryX=0.25;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;endFill=0;endSize=20;exitPerimeter=0;" edge="1" parent="1" source="K0yt6GwU2kgWWmq-HfIX-5" target="K0yt6GwU2kgWWmq-HfIX-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="105" y="290" as="sourcePoint" />
+            <mxPoint x="215" y="218" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
