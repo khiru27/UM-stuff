@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T13:08:17.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="vOT1fvvXIYlzZAIpymcj" type="github"><diagram id="g1mkH-fIYHkB1IJuXtuf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-13T14:01:16.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="bFmo9cO6winA_HNSDlKB" type="github">
+  <diagram id="pRcqUkCimCfAmNCuFZmj" name="Page-1">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Owa7CJyM11tQDrbSbZQj-2" value="Report Generator" style="swimlane;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Owa7CJyM11tQDrbSbZQj-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="Owa7CJyM11tQDrbSbZQj-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="70" as="sourcePoint" />
+            <mxPoint x="200" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Owa7CJyM11tQDrbSbZQj-4" value="+ field: type" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;" vertex="1" parent="Owa7CJyM11tQDrbSbZQj-2">
+          <mxGeometry x="10" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Owa7CJyM11tQDrbSbZQj-5" value="+ method(type): type" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;" vertex="1" parent="Owa7CJyM11tQDrbSbZQj-2">
+          <mxGeometry x="10" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Owa7CJyM11tQDrbSbZQj-6" value="Formatter" style="swimlane;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="120" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Owa7CJyM11tQDrbSbZQj-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="Owa7CJyM11tQDrbSbZQj-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="70" as="sourcePoint" />
+            <mxPoint x="200" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Owa7CJyM11tQDrbSbZQj-8" value="+ field: type" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;" vertex="1" parent="Owa7CJyM11tQDrbSbZQj-6">
+          <mxGeometry x="10" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Owa7CJyM11tQDrbSbZQj-9" value="+ method(type): type" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;" vertex="1" parent="Owa7CJyM11tQDrbSbZQj-6">
+          <mxGeometry x="10" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Owa7CJyM11tQDrbSbZQj-10" value="" style="endArrow=open;html=1;rounded=0;endFill=0;strokeWidth=1;targetPerimeterSpacing=0;startSize=6;endSize=20;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="190" as="sourcePoint" />
+            <mxPoint x="450" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
