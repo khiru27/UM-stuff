@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T07:07:56.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ehCY2XJj6x0-2b2DJfy6" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T07:09:25.397Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="fEWpRPNPnFfMWYZ6hd3R" version="20.8.23" type="github">
   <diagram name="Page-1" id="DM5Yuql2GYFinFrfzMFx">
     <mxGraphModel dx="731" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -14,13 +14,13 @@
           <mxGeometry x="420" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A3OvqHpFa92Mk-xtBNhH-4" value="Inform the quality and quantity and provide recipe for spoiled milk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="130" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="A3OvqHpFa92Mk-xtBNhH-5" value="NO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="420" y="260" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A3OvqHpFa92Mk-xtBNhH-6" value="Inform the quality and quantity and provide recipe for fresh milk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="560" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="260" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="A3OvqHpFa92Mk-xtBNhH-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="A3OvqHpFa92Mk-xtBNhH-3" target="A3OvqHpFa92Mk-xtBNhH-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -46,7 +46,7 @@
             <mxPoint x="420" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A3OvqHpFa92Mk-xtBNhH-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="A3OvqHpFa92Mk-xtBNhH-2">
+        <mxCell id="A3OvqHpFa92Mk-xtBNhH-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="A3OvqHpFa92Mk-xtBNhH-2" source="A3OvqHpFa92Mk-xtBNhH-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="230" as="sourcePoint" />
             <mxPoint x="240" y="200" as="targetPoint" />
@@ -78,6 +78,24 @@
         </mxCell>
         <mxCell id="A3OvqHpFa92Mk-xtBNhH-18" value="Order right amount of milk from grocery delivery service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="560" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OvqHpFa92Mk-xtBNhH-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A3OvqHpFa92Mk-xtBNhH-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="360" as="sourcePoint" />
+            <mxPoint x="250" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3OvqHpFa92Mk-xtBNhH-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="490" as="sourcePoint" />
+            <mxPoint x="420" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3OvqHpFa92Mk-xtBNhH-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="A3OvqHpFa92Mk-xtBNhH-12" target="A3OvqHpFa92Mk-xtBNhH-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="470" as="sourcePoint" />
+            <mxPoint x="420" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
